@@ -4,3 +4,5 @@ A small prototype of the self-driving car using a Convolutional Neural Network (
 [![Self-Driving-Car-Using-Deep-Learning](https://img.youtube.com/vi/D8EmFgQnPuM/![Qcar](https://user-images.githubusercontent.com/70255794/189470119-d869dcb6-fbe1-454a-9a52-ff1610d11f55.jpeg))](https://www.youtube.com/watch?v=D8EmFgQnPuM)
 
 [![Self-Driving-Car-Using-Deep-Learning](https://img.youtube.com/vi/D8EmFgQnPuM/![Qcar](https://user-images.githubusercontent.com/70255794/189470119-d869dcb6-fbe1-454a-9a52-ff1610d11f55.jpeg))](https://www.youtube.com/watch?v=D8EmFgQnPuM)
+
+![Qcar](https://user-images.githubusercontent.com/70255794/189470444-09e99c12-45d0-4fe7-8f9b-1aed63b53645.jpeg)
