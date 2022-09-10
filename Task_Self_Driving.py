@@ -11,6 +11,10 @@ import numpy as np
 from Quanser.q_essential import Camera2D
 from classify import obs_classify
 
+################################################
+#           Muhammad Talha Ejaz                #
+#          talha.ej@hotmail.com                #   
+################################################
 
 result = cv2.VideoWriter('filenameNew.avi', 
                          cv2.VideoWriter_fourcc(*'MJPG'),
