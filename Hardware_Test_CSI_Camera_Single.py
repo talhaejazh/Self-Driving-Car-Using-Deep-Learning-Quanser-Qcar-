@@ -4,8 +4,15 @@ import struct
 import numpy as np 
 import cv2
 
-# -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+# -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+################################################
+#           Muhammad Talha Ejaz                #
+#          talha.ej@hotmail.com                #   
+################################################
+
 ## Timing Parameters and methods 
+
 startTime = time.time()
 def elapsed_time():
     return time.time() - startTime
