@@ -4,6 +4,11 @@ import tensorflow as tf
 from PIL import Image
 import numpy as np
 
+################################################
+#           Muhammad Talha Ejaz                #
+#          talha.ej@hotmail.com                #   
+################################################
+
 image_size = (180, 180)
 interpreter = tf.lite.Interpreter("model.tflite")  #license plate classification
 interpreter.allocate_tensors()
